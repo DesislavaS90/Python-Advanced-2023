@@ -1,0 +1,1 @@
+print(*set(input() for name in range(int(input()))), sep='\n')
